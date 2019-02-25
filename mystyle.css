@@ -131,6 +131,7 @@ a{
     max-width: 710px;
     background-color:  #e6e6e6;
     box-shadow: 5px 10px 8px #888888;
+    overflow:auto;
 }
 
 
